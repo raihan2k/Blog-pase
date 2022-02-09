@@ -1,0 +1,28 @@
+.navbar-brand {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.container-fluid {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.container-footer {
+    margin-top: 15px;
+    
+}
+.nav-item{
+    font-family: 'Tajawal', sans-serif;
+}
+.footer{
+    font-family: 'Baloo 2', cursive;
+}
+.col-md-5 img{
+    width: auto;
+    height: 800px;
+    transition: all 400ms;
+}
+.col-md-5 img:hover {
+    transform: rotate(5deg);
+}

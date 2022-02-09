@@ -1,0 +1,32 @@
+div.container {
+ background-color:#F6F6F6;
+}
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+}
+p {
+  font-family: 'Baloo Da 2', cursive;
+  font-size: 18px;
+}
+h4 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+}
+small {
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+}
+h1 {
+  font-family: 'Nunito', sans-seri;
+  margin-top: 30px;
+
+}
+button {
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  margin-top: 30px;
+}
+p {
+  margin-top: 20px;
+}

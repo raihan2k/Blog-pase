@@ -1,0 +1,13 @@
+.card-body{
+    font-family: 'Nunito Sans', sans-serif
+}
+img:hover{
+    transform: scale(1.5);
+    position: relative;
+    z-index: 5;
+}
+img{
+  width: auto;
+  height: 500px;
+  transition: all 400ms;
+}
